@@ -1,1 +1,0 @@
-python track.py --source /home/fatih/mnt/datasets/trackeveryseason/cam1/cam1_2021-07-06,13_00_05.mp4 --yolo_weights /home/fatih/phd/Yolov5_DeepSort_Pytorch/yolov5/weights/crowdhuman_yolov5m.pt --classes 0 --save-vid
